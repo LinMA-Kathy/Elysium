@@ -9,6 +9,9 @@ gem "rails", "~> 7.0.4", ">= 7.0.4.3"
 gem 'devise'
 
 gem "dotenv-rails", groups: [:development, :test]
+# gem "cloudinary"
+
+gem 'cloudinary'
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
